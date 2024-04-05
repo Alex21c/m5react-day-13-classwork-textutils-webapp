@@ -10,7 +10,7 @@ In this project, i have created a robust Text Editor WebApp using ReactJS and st
 ## Objectives
 + Developed a versatile Text Editor website using ReactJS.
 + Provide real-time feedback on text, including word count, character count, and reading time.
-+ Enableed users to preview their document and apply text transformations (uppercase, lowercase).
++ Enabled users to preview their document and apply text transformations (uppercase, lowercase).
 + Implemented a feature to clear text and remove extra spaces , copy To ClipBoard.
 
 ## How to install and run in yours local machine
